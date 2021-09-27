@@ -20,6 +20,7 @@ def get_first_name(name: str) -> str:
 ```
 ### Naming Conventions
 Follow PEP-8 for naming convention:  
+
 | Type | Naming Convention | Example |
 | ---  | ---               | ---     |
 | Function | Use a lowercase word or words. Separate words by underscores to improve readability. | function, my_function |
